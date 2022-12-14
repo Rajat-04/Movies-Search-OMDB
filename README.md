@@ -1,16 +1,18 @@
-# movies_api_omdb
 
-A new Flutter project.
+# OMDB API MOVIE SEARCH
 
-## Getting Started
+Fetching and displaying Movies using OMDB API. Search functionlaity added to let user search for movies.
 
-This project is a starting point for a Flutter application.
+State Management - GETX \
+API - OMDB
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
+![Screenshot (158)](https://user-images.githubusercontent.com/108835667/207576506-c65ad4e2-b9fc-4a03-bae5-5769b1cdd613.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/108835667/207576517-ff83bee7-85db-4ee3-b838-11ddfdbf3c1b.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Video Link
+https://drive.google.com/file/d/1hP7UVDDMN6ppxAjQB3RIXgQYETdboBI0/view?usp=share_link
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rajat-04)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-bhargava-24462b244/)
